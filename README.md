@@ -1,3 +1,4 @@
 # Gasy_game_monthly
 
-RAMANDIMBISON Ezra Niel ;IGGLIA 3;Numéro: 7 .
+Nom:RAMANDIMBISON Ezra Niel ;Classe:IGGLIA 3;Numéro: 7 .
+Lien live :https://ezraniel.github.io/Gasy_game_monthly/
